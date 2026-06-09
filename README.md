@@ -18,7 +18,9 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<table width="100%">
+<tr>
+<td valign="top" width="68%">
 
 ```python
 class Kaviya:
@@ -43,6 +45,18 @@ class Kaviya:
 
     def motto(self):
         return "Build things that matter. Measure what you make. 🚀"
+
+</td>
+<td valign="top" width="32%" align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="coding gif"
+    width="100%"
+    style="max-width:220px; min-width:80px; border-radius:12px;"
+  />
+</td>
+</tr>
+</table>
 ```
 
 ---
