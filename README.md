@@ -18,9 +18,9 @@
 
 ## 👩‍💻 About Me
 
-<table width="70%">
+<table width="100%">
 <tr>
-<td valign="top" width="0%">
+<td valign="top" width="150">
 
 ```python
 class Kaviya:
