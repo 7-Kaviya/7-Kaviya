@@ -45,6 +45,7 @@ class Kaviya:
 
     def motto(self):
         return "Build things that matter. Measure what you make. 🚀"
+```
 
 </td>
 <td valign="top" width="32%" align="center">
@@ -57,7 +58,6 @@ class Kaviya:
 </td>
 </tr>
 </table>
-```
 
 ---
 
@@ -143,9 +143,9 @@ class Kaviya:
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---:|
-| [**Nexus Platform**](https://github.com/7-Kaviya) | Angular 14 · Node.js · Express · TypeScript · JWT | Full-stack app with role-based auth, RESTful APIs, CRUD operations & reusable Angular components |
-| [**Financial Fraud Detection**](https://github.com/7-Kaviya) | Python · SGD · Online Learning · scikit-learn | One-Pass Online Learning model with incremental updates; processes live transaction streams without storing full dataset |
-| [**Finalysis — Finance Dashboard**](https://github.com/7-Kaviya) | React · TypeScript · Tailwind CSS · Recharts · Context API | Real-time income/expense tracker with interactive charts, dark/light mode & data persistence |
+| [**Nexus Platform**](https://github.com/7-Kaviya/SPA-Application---Angular) | Angular 14 · Node.js · Express · TypeScript · JWT | Full-stack app with role-based auth, RESTful APIs, CRUD operations & reusable Angular components |
+| [**Financial Fraud Detection**](https://github.com/7-Kaviya/One-Pass-Online-Learning) | Python · SGD · Online Learning · scikit-learn | One-Pass Online Learning model with incremental updates; processes live transaction streams without storing full dataset |
+| [**Finalysis — Finance Dashboard**](https://github.com/7-Kaviya/Financial_Dashboard_UI) | React · TypeScript · Tailwind CSS · Recharts · Context API | Real-time income/expense tracker with interactive charts, dark/light mode & data persistence |
 
 </p>
 
