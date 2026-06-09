@@ -20,7 +20,7 @@
 
 <table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ```python
 class Kaviya:
@@ -48,7 +48,7 @@ class Kaviya:
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="50%" align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="coding gif"
