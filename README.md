@@ -53,7 +53,7 @@ class Kaviya:
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="coding gif"
     width="100%"
-    style="max-width:220px; min-width:80px; border-radius:12px;"
+    style="max-width:320px; min-width:80px; border-radius:12px;"
   />
 </td>
 </tr>
