@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-<table width="100%">
+<table width="70%">
 <tr>
 <td valign="top" width="0%">
 
