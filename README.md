@@ -23,8 +23,8 @@
 ```python
 class Kaviya:
     name        = "Kaviya V"
-    location    = "Mayiladuthurai, Tamil Nadu, India"
-    degree      = "B.Tech in Information Technology @ LICET (CGPA: 8.87)"
+    location    = "Chennai, Tamil Nadu, India"
+    degree      = "B.Tech in Information Technology @ LICET (CGPA: 8.94)"
 
     stack = [
         "Python", "Java", "TypeScript", "JavaScript",
