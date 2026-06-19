@@ -160,7 +160,7 @@ class Kaviya:
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |:---:|:---:|:---:|:---:|
-| B.Tech — Information Technology | Loyola-ICAM College of Engineering & Technology, Chennai | Oct 2022 – Apr 2026 | **CGPA: 8.87** |
+| B.Tech — Information Technology | Loyola-ICAM College of Engineering & Technology, Chennai | Oct 2022 – Apr 2026 | **CGPA: 8.94** |
 | Higher Secondary Certificate (HSC) | Napac Matric Hr. Sec School, Mayiladuthurai | May 2022 | **95.5%** |
 
 </p>
