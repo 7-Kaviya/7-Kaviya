@@ -28,7 +28,7 @@ class Kaviya:
 
     stack = [
         "Python", "Java", "TypeScript", "JavaScript",
-        "React", "Flutter", "React Native",
+        "Django", "React",
         "Node.js", "Express", "Angular",
         "Pandas", "NumPy", "Playwright", "Tableau"
     ]
@@ -142,7 +142,7 @@ class Kaviya:
 
 | 🏆 | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **B.Tech Information Technology** | CGPA: **8.87** — Loyola-ICAM College of Engineering & Technology |
+| 🎓 | **B.Tech Information Technology** | CGPA: **8.94** — Loyola-ICAM College of Engineering & Technology |
 | 📜 | **Oracle Certified AI Foundations Associate** | Oracle Cloud Infrastructure (OCI) — March 2026 |
 | 🌐 | **Web Development Fundamentals — IBM Badge** | HTML, CSS, JavaScript, Responsive Design — April 2026 |
 | 🚂 | **The Complete Ruby on Rails Developer Course** | Full-stack web development with Rails — Udemy, June 2025 |
