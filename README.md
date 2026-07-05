@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaviya%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Grad%20Student%20%7C%20QA%20Automation%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaviya%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20QA%20Automation%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=7-Kaviya&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   <a href="mailto:kaviya0733@gmail.com"><img src="https://img.shields.io/badge/Gmail-kaviya0733%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kaviya-v"><img src="https://img.shields.io/badge/LinkedIn-kaviya--v-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kaviya-v-034648256/"><img src="https://img.shields.io/badge/LinkedIn-kaviya--v-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/7-Kaviya"><img src="https://img.shields.io/badge/GitHub-7--Kaviya-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
@@ -18,7 +18,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
 ```python
 class Kaviya:
     name        = "Kaviya V"
@@ -84,15 +85,6 @@ class Kaviya:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=7-Kaviya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="Kaviya's GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-Kaviya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -105,14 +97,6 @@ class Kaviya:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7-Kaviya&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7-Kaviya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -191,9 +175,9 @@ class Kaviya:
 
 ```
 🤖 AI & Data Science     →  M.Tech @ VIT Chennai (in collaboration with LTI Mindtree)
-☁️  Cloud Platforms      →  AWS (EC2, S3, Lambda), GCP Basics, Deployment Pipelines
+☁️ Cloud Platforms       →  AWS (EC2, S3, Lambda), GCP Basics, Deployment Pipelines
 🧠 Generative AI         →  Prompt Engineering, LLMs, RAG, Fine-tuning
-🏗️  System Design        →  HLD, LLD, Scalability, Microservices Architecture
+🏗️ System Design         →  HLD, LLD, Scalability, Microservices Architecture
 📊 MLOps                 →  Model Deployment with FastAPI, Model Monitoring
 ```
 
@@ -202,7 +186,7 @@ class Kaviya:
 <p align="center">
   <i>"Build things that matter. Measure what you make. 🚀"</i>
   <br/><br/>
-  <a href="https://linkedin.com/in/kaviya-v">
+  <a href="https://www.linkedin.com/in/kaviya-v-034648256/">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
